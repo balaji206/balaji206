@@ -19,7 +19,9 @@
 - 👨‍⚕️ Doctor Recomendation Website
 - 🏢 Mahal Booking Website
 - 🎮 Game Hub
-
+- 💬 Convo AI
+- 🧾 Focus Hub
+- 🌊 Safepath AI
 ---
 
 ## 📈 Currently Learning
