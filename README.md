@@ -32,5 +32,5 @@
 ---
 
 ## 📫 Connect with Me
-- GitHub: [https://github.com/your-username](https://github.com/balaji206)
+- GitHub: [https://github.com/balaji206](https://github.com/balaji206)
 - LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/balaji-s-486b53318/)
