@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | MERN | TypeScript  
 🎓 Second-year student | Kalvium  
-💡 Interested in building real-world apps
+💡 Interested in building real-world apps 
 📱 Mobile App Developer | React Native | Flutter
 
 ---
