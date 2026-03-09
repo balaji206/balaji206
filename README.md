@@ -21,8 +21,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=balaji206)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balaji206&theme=tokyonight" />
+</p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=balaji206&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
