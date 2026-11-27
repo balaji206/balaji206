@@ -11,7 +11,7 @@ Passionate about building scalable web applications and turning ideas into real-
 </p>
 
 # 💫 About Me:
-🚀 Full Stack Developer focused on building scalable web applications<br><br>🎓 Second-year Full Stack Development student at Kalvium<br><br>💻 Experienced with MERN stack, TypeScript, and REST APIs<br><br>📱 Mobile app developer using React Native and Flutter<br><br>🧠 Strong interest in Data Structures & Problem Solving<br><br>⚙️ Comfortable working across frontend, backend, and databases<br><br>🛠 Passionate about turning ideas into real-world products<br><br>🌱 Currently learning Java Backend, Spring Boot, and System Design<br><br>🧩 Actively improving through coding challenges and projects
+🚀 Full Stack Developer focused on building scalable web applications<br><br>🎓 Third-year Full Stack Development student at Kalvium<br><br>💻 Experienced with MERN stack, TypeScript, and REST APIs<br><br>📱 Mobile app developer using React Native and Flutter<br><br>🧠 Strong interest in Data Structures & Problem Solving<br><br>⚙️ Comfortable working across frontend, backend, and databases<br><br>🛠 Passionate about turning ideas into real-world products<br><br>🌱 Currently learning Java Backend, Spring Boot, and System Design<br><br>🧩 Actively improving through coding challenges and projects
 
 
 ## 🌐 Socials:
